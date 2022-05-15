@@ -40,7 +40,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 ## 📊GitHub Stats :
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;" align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu&theme=radical&hide_border=false" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -51,13 +51,23 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+<div id="header" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
 
 ## ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<div id="header" align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
 
 ## 😂Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+<div id="header" align="center">
+  <img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=5)](https://visitcount.itsvg.in) -->
