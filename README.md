@@ -22,9 +22,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ## 📊GitHub Stats :
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu&show_icons=true&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" />
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu&theme=algolia&hide_border=false" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu&show_icons=true&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" />
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu&theme=buefy&hide_border=false" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 
