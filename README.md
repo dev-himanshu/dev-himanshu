@@ -35,9 +35,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ## 📊GitHub Stats :
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu&show_icons=true&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" />
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu&theme=buefy&hide_border=false" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu&theme=radical&hide_border=false" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
  <img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-himanshu&theme=radical" />
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-himanshu&theme=radical" />
  <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-himanshu&theme=radical" />
@@ -45,7 +45,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy)
@@ -54,4 +54,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=0)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=5)](https://visitcount.itsvg.in)
