@@ -32,7 +32,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy)
 
 ## 😂Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
