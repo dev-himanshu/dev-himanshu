@@ -1,4 +1,4 @@
-# Hi there 👋, I am Himanshu Mishra
+# Hi there 👋, I am Himanshu Mishra,
 ### Developer | Designer
 <div id="header" align="center">
   <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" width="100%"/>
