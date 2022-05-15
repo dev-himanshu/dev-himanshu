@@ -29,7 +29,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
