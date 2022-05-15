@@ -21,9 +21,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dev-himanshu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/himanshumishra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@himanshumishra1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dev-himanshu-mishra/)  
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=dev-himanshu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" />
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu&theme=algolia&hide_border=false" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-himanshu&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
