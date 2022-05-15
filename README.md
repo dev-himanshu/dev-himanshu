@@ -54,4 +54,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![align: "center"](https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=5)](https://visitcount.itsvg.in)
