@@ -15,7 +15,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <h3 align="left"> Frontend:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.freepnglogos.com/pics/javascript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.freepnglogos.com/pics/javascript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="60" height="60"/> </a>
 <h3 align="left"> Backend:</h3>
 <h3 align="left"> Tools:</h3>
 <h3 align="left"> Other:</h3>
