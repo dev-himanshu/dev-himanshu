@@ -21,6 +21,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <h3 align="left"> Backend:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a title="hibernate logo PNG image with transparent background@toppng.com" href="https://toppng.com/free-image/hibernate-logo-PNG-free-PNG-Images_472783" target="_blank">hibernate logo PNG image with transparent background<img src="https://toppng.com/uploads/preview/hibernate-logo-11609364227r2rk6gphuk.png" alt="hibernate logo PNG image with transparent background@toppng.com"></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="60" height="40"/> </a>
