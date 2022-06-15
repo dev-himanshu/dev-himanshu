@@ -47,6 +47,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" alt="junit" width="40" height="40"/> </a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png" alt="mockito" width="40" height="40"/> </a>
 </p>
 
 ## 💫About Me :
