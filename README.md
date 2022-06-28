@@ -4,8 +4,6 @@
   <img src="https://github.com/dev-himanshu/dev-himanshu/blob/main/Banner.png" width="100%"/>
 </div>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 <div id="header" align="center">
   <img src="https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=5">
 </div>
