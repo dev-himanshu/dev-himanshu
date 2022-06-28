@@ -7,7 +7,7 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 <div id="header" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=5">
+  <img src="https://www.canva.com/design/DAFE3zS30Xs/f5XW7w77CBPTZfPsUYMf-w/view?utm_content=DAFE3zS30Xs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
 </div>
 
 <h2 align="left">🖥️Languages and Tools:</h2>
