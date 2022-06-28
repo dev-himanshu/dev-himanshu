@@ -1,7 +1,7 @@
 # Hi there 👋, I am Himanshu Mishra,
 ### Developer | Designer
 <div id="header" align="center">
-  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" width="100%"/>
+  <img src="https://github.com/dev-himanshu/dev-himanshu/blob/main/Banner.png" width="100%"/>
 </div>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
