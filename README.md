@@ -4,10 +4,6 @@
   <img src="https://github.com/dev-himanshu/dev-himanshu/blob/main/Banner.png" width="100%"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dev-himanshu&icon=0&color=5">
-</div>
-
 <h2 align="left">🖥️Languages and Tools:</h2>
 <p align="left">
 <h3 align="left"> Frontend:</h3>
